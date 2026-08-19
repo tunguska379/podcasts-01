@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+    <title>My Podcasts</title>
+    <description>Personal audio files</description>
+    <link>https://example.com/</link>
+    <language>en-us</language>
+
+    <item>
+        <title>Episode 153</title>
+        <description>Coming soon</description>
+
+        <enclosure
+            url="https://www.dropbox.com/scl/fi/tk1n63800rpu1folhzi4l/153.mp3?rlkey=5qm2mq72zvvmzbyhn4x0db3jb&dl=1"
+            length="26000000"
+            type="audio/mpeg" />
+
+        <guid>my-mp3-001</guid>
+        <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+
+</channel>
+</rss>
