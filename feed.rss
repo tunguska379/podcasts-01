@@ -4,6 +4,7 @@
 
 <channel>
     <title>My Podcasts</title>
+    <itunes:image href="https://www.dropbox.com/scl/fi/pitnedklnk5d403lhvpzf/Identity_Politics_thumbnail.jpg?rlkey=toinjpzou8rik87n0gpue147w&dl=0" />
     <description>Personal audio files</description>
     <link>https://example.com/</link>
     <language>en-us</language>
