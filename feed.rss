@@ -72,7 +72,7 @@
             type="audio/mpeg" />
 
         <guid>my-mp3-EL01</guid>
-        <pubDate>Thu, 27 Aug 2026 10:00:00 -0900</pubDate>
+        <pubDate>Thu, 27 Aug 2026 10:00:00 -0700</pubDate>
     <itunes:image href="https://img.youtube.com/vi/HHRTGoJMMuU/hqdefault.jpg"/>
     </item>
 
@@ -152,7 +152,7 @@
             type="audio/mpeg" />
 
         <guid>my-mp3-156</guid>
-        <pubDate>Wed, 18 Aug 2026 00:00:00 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
 
     <item>
@@ -165,7 +165,7 @@
             type="audio/mpeg" />
 
         <guid>my-mp3-155</guid>
-        <pubDate>Wed, 14 Aug 2026 00:00:00 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
     </item>
 
     <item>
@@ -178,7 +178,7 @@
             type="audio/mpeg" />
 
         <guid>my-mp3-154</guid>
-        <pubDate>Wed, 13 Aug 2026 00:00:00 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
 
     <item>
