@@ -11,7 +11,7 @@
     <itunes:category text="News">
         <itunes:category text="Politics"/>
     </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
 
     <item>
         <link>https://tunguska379.github.io/podcasts-01/</link>
