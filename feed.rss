@@ -4,7 +4,7 @@
 
 <channel>
     <title>My Podcasts</title>
-    <itunes:image href="https://tunguska379.github.io/podcasts-01/Identity_Politics_thumbnail.jpg" />
+    <itunes:image href="https://pub-96b96b20127247739054ef29af4f3dfd.r2.dev/Identity_Politics_thumbnail.jpg" />
     <description>Personal audio files</description>
     <link>//https://www.youtube.com/@IdentityPolitics/</link>
     <language>en-us</language>
@@ -19,7 +19,7 @@
         <description>The Republican Party has turned Texas into the Lone Saar State and is now attacking those who dare to notice the problem of mass immigration by Indians. Yet if the GOP can't defend someone like Bo French, they can hardly defend the existence of Texas itself. Identity isn't an "idea," but something inherent, and those who say otherwise are simply trying to destroy you. Plus, Connor Tomlinson joins to discuss the rising nationalist resistance in Great Britain, the government's crackdown on street protests, and the potential breakup of the UK itself.</description>
         <enclosure
             url="https://pub-96b96b20127247739054ef29af4f3dfd.r2.dev/168.mp3"
-            length="75914766"
+            length="87394461"
             type="audio/mpeg" />
         <guid>my-mp3-168</guid>
         <pubDate>Tue, 15 Sep 2026 19:00:00 -0700</pubDate>
