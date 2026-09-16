@@ -6,8 +6,11 @@
     <title>My Podcasts</title>
     <itunes:image href="https://tunguska379.github.io/podcasts-01/Identity_Politics_thumbnail.jpg" />
     <description>Personal audio files</description>
-    <link>https://example.com/</link>
+    <link>//https://www.youtube.com/@IdentityPolitics/</link>
     <language>en-us</language>
+    <itunes:category text="News">
+        <itunes:category text="Politics"/>
+    </itunes:category>
 
     <item>
         <title>Identity Politics (Ep. 168): They Forgot The Alamo</title>
